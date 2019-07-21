@@ -47,8 +47,10 @@ Deploy and operationalize machine learning solutions.
 - https://aws.amazon.com/training/learning-paths/machine-learning/exam-preparation/
 
 ----------------------------
-
-
+- What is the Difference Between a Batch and an Epoch in a Neural Network?
+  https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
+- 
+-----------------------------
 - https://github.com/vaquarkhan/amazon-sagemaker-examples
 - https://aws.amazon.com/training/learning-paths/machine-learning/exam-preparation/
 - https://github.com/vaquarkhan/Effective-Amazon-Machine-Learning
