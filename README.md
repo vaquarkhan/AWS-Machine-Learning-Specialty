@@ -54,3 +54,4 @@ Deploy and operationalize machine learning solutions.
 - https://www.youtube.com/playlist?list=PLEF5xKHm-3ZNDvdJpMCLu9xa1oDNvAmMr
 - https://colab.research.google.com/github/noahgift/aws-ml-guide/blob/master/Lesson1_AWSML_Overview.ipynb
 - https://medium.com/@julsimon/thoughts-on-the-beta-machine-learning-certification-869a5a469597
+- https://www.linkedin.com/pulse/aws-certified-machine-learning-specialty-some-thoughts-david-gu/
