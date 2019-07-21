@@ -39,7 +39,10 @@ Deploy and operationalize machine learning solutions.
 -----------------------
 
 - AWS Sagemaker Developer Guide – https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.htmlWong 
-- Tai Sin's recommended Sagemaker build-in9 big algorithm video https://www.youtube.com/playlist?list=PLtgJR0xD2TPf9PAEm7LP82_-Oznho5Ms_AWS - Learning Path and AWS university from AWS's official website: https://aws.amazon.com/training/learning-paths/machine-learning/exam-preparation/
+
+- Tai Sin's recommended Sagemaker build-in9 big algorithm video https://www.youtube.com/playlist?list=PLtgJR0xD2TPf9PAEm7LP82_-Oznho5Ms_AWS
+
+- Learning Path and AWS university from AWS's official website: https://aws.amazon.com/training/learning-paths/machine-learning/exam-preparation/
 
 ----------------------------
 
