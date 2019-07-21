@@ -47,7 +47,26 @@ Deploy and operationalize machine learning solutions.
 - https://aws.amazon.com/training/learning-paths/machine-learning/exam-preparation/
 
 ----------------------------
-- What is the Difference Between a Batch and an Epoch in a Neural Network?
+## Machin learning
+
+ #### Model parameter :
+   Parameters are those which would be learned by the machine like Weights and Biases.
+ 
+ #### Hyperparameter :  
+ Hyper-parameters are those which we supply to the model, for example: number of hidden Nodes and Layers,input features, Learning Rate, Activation Function etc in Neural Network,
+ 
+##### Diffrence between model param vs HyperParam
+- https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/
+ 
+ 
+ #### Learning Rate 
+ 
+ #### Batch Size
+ 
+ #### Epoches
+ 
+
+#### What is the Difference Between a Batch and an Epoch in a Neural Network?
   https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
 - 
 -----------------------------
