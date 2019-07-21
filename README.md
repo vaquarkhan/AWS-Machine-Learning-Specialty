@@ -1,4 +1,8 @@
 # AWS-Machine-Learning-Specialty
+
+![Alt Text](https://miro.medium.com/max/513/1*YJIqo0jSZsLF0I9qaRs4RA.png)
+
+
 AWS Machine Learning-Specialty-  notes 
 
 -----------------
@@ -35,6 +39,9 @@ Recommend and implement the appropriate machine learning services and features f
 Apply basic AWS security practices to machine learning solutions.
 Deploy and operationalize machine learning solutions.
 
+
+
+![Alt Text](https://d1.awsstatic.com/training-and-certification/machinelearning/path_ml-exam-preparation.0849ffc65449f465503b5d3b92410677a2ca62b3.png)
 
 -----------------------
 
@@ -82,3 +89,4 @@ Deploy and operationalize machine learning solutions.
 - https://colab.research.google.com/github/noahgift/aws-ml-guide/blob/master/Lesson1_AWSML_Overview.ipynb
 - https://medium.com/@julsimon/thoughts-on-the-beta-machine-learning-certification-869a5a469597
 - https://www.linkedin.com/pulse/aws-certified-machine-learning-specialty-some-thoughts-david-gu/
+- https://www.cloudreach.com/en/insights/blog/aws-certified-machine-learning-speciality-exam-resources-and-tips/
