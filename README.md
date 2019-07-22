@@ -56,7 +56,6 @@ Deploy and operationalize machine learning solutions.
 ----------------------------
 ## Machin learning
 
-![Alt Text](https://www.analyticsvidhya.com/wp-content/uploads/2015/06/machine-learning-types.png)
 
 ![Alt Text](https://www.sparkmythought.com/wp-content/uploads/2019/04/machine-learning-hierarchy.jpg)
 
