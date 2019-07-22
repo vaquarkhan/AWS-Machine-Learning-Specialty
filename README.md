@@ -64,6 +64,11 @@ Deploy and operationalize machine learning solutions.
 
 ![Alt Text](https://www.mindmeister.com/export/image/969402186?height=600&t=MITG7ZIKaz&variable_size=1&width=1200)
 
+![Alt Text](https://miro.medium.com/max/813/1*tEo4x2-2iOZcnhSF13rUTA.png)
+
+![Alt Text](https://pbs.twimg.com/media/C9ngAzmXcAAoKTE.jpg)
+
+
 - https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html
 
 
@@ -110,3 +115,4 @@ Deploy and operationalize machine learning solutions.
 - https://medium.com/@julsimon/thoughts-on-the-beta-machine-learning-certification-869a5a469597
 - https://www.linkedin.com/pulse/aws-certified-machine-learning-specialty-some-thoughts-david-gu/
 - https://www.cloudreach.com/en/insights/blog/aws-certified-machine-learning-speciality-exam-resources-and-tips/
+- https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
