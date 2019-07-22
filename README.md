@@ -66,12 +66,21 @@ Deploy and operationalize machine learning solutions.
 - https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/
  
  
- #### Learning Rate 
+ #### Learning Rate : 
+ Determines the size of the step taken during gradient descent optimization ,Between 0 and 1
  
- #### Batch Size
+ #### Batch Size :
+ -  The number of sample used to train at any one time.
+ -  Could be all one or some of your data (batch ,stochastic ,or mini-batch)
+ -  Often 32 ,64 and 128 
+ -  Calculable from infrastructure
  
- #### Epoches
- 
+ #### Epoches :
+-  The number of times that the algorithm will process the entire  training data.
+- Each epoch contains one or more batches
+- Each epoch should see the model get closer to the desired state
+- Usually a high number :
+- 10,100,1000 and up
 
 #### What is the Difference Between a Batch and an Epoch in a Neural Network?
 
