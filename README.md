@@ -56,6 +56,18 @@ Deploy and operationalize machine learning solutions.
 ----------------------------
 ## Machin learning
 
+![Alt Text](https://www.analyticsvidhya.com/wp-content/uploads/2015/06/machine-learning-types.png)
+
+![Alt Text](https://www.sparkmythought.com/wp-content/uploads/2019/04/machine-learning-hierarchy.jpg)
+
+
+![Alt Text](https://miro.medium.com/max/1252/1*KFQI59Yv7m1f3fwG68KSEA.jpeg)
+
+![Alt Text](https://www.mindmeister.com/export/image/969402186?height=600&t=MITG7ZIKaz&variable_size=1&width=1200)
+
+- https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html
+
+
  #### Model parameter :
    Parameters are those which would be learned by the machine like Weights and Biases.
  
