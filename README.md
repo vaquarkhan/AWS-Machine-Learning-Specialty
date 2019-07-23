@@ -40,6 +40,21 @@ Apply basic AWS security practices to machine learning solutions.
 Deploy and operationalize machine learning solutions.
 
 
+ Query logging using Athena 
+ Cloudtrail integration with Athena 
+ Amazon Macie 
+ Glacier Vault lock 
+ Quicksight
+ Different e-mail protocols in secure port  https://www.siteground.com/tutorials/email/protocols-pop3-smtp-imap/
+ 
+### White paper
+- https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf
+- https://d1.awsstatic.com/whitepapers/aws-kms-best-practices.pdf
+- https://d0.awsstatic.com/whitepapers/compliance/AWSSecurityatScaleLogginginAWS_Whitepaper.pdf
+- https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf
+- https://d1.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf
+- https://d1.awsstatic.com/whitepapers/Security/Secure_content_delivery_with_CloudFront_whitepaper.pdf
+- https://d0.awsstatic.com/whitepapers/compliance/AWS_Security_at_Scale_Logging_in_AWS_Whitepaper.pdf
 
 ![Alt Text](https://d1.awsstatic.com/training-and-certification/machinelearning/path_ml-exam-preparation.0849ffc65449f465503b5d3b92410677a2ca62b3.png)
 
@@ -103,6 +118,7 @@ Deploy and operationalize machine learning solutions.
 - https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
  
 -----------------------------
+- https://www.youtube.com/playlist?list=PLEF5xKHm-3ZNDvdJpMCLu9xa1oDNvAmMr
 - https://github.com/vaquarkhan/amazon-sagemaker-examples
 - https://aws.amazon.com/training/learning-paths/machine-learning/exam-preparation/
 - https://github.com/vaquarkhan/Effective-Amazon-Machine-Learning
@@ -116,3 +132,30 @@ Deploy and operationalize machine learning solutions.
 - https://www.linkedin.com/pulse/aws-certified-machine-learning-specialty-some-thoughts-david-gu/
 - https://www.cloudreach.com/en/insights/blog/aws-certified-machine-learning-speciality-exam-resources-and-tips/
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+- https://docs.aws.amazon.com/AmazonS3/latest/dev/serv-side-encryption.html 
+- https://aws.amazon.com/directoryservice/faqs/ 
+- https://aws.amazon.com/blogs/security/how-to-use-aws-config-to-monitor-for-and-respond-to-amazon-s3-buckets-allowing-public-access/
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html#access_policies-json 
+- https://aws.amazon.com/blogs/aws/launch-amazon-macie-securing-your-s3-buckets/ 
+- https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-actions.html 
+- https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-concepts.html 
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-saml.html 
+- https://docs.aws.amazon.com/inspector/latest/userguide/inspector_concepts.html 
+- https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/
+- https://aws.amazon.com/blogs/security/how-to-create-an-aws-iam-policy-to-grant-aws-lambda-access-to-an-amazon-dynamodb-table/
+- https://aws.amazon.com/blogs/security/aws-federated-authentication-with-active-directory-federation-services-ad-fs/
+- https://aws.amazon.com/blogs/aws/elastic-load-balancing-perfect-forward-secrecy-and-other-security-enhancements/
+- https://docs.aws.amazon.com/kms/latest/developerguide/policy-conditions.html#conditions-kms-via-service
+- https://aws.amazon.com/blogs/aws/s3-encryption-with-your-keys/ 
+- https://aws.amazon.com/blogs/aws/new-amazon-s3-encryption-security-features/ 
+- https://aws.amazon.com/blogs/security/how-to-encrypt-and-decrypt-your-data-with-the-aws-encryption-cli/ 
+- https://docs.aws.amazon.com/organizations/latest/userguide/orgsmanagepolicies_scp.html 
+- https://docs.aws.amazon.com/kms/latest/developerguide/rotate-keys.html 
+- https://aws.amazon.com/premiumsupport/knowledge-center/s3-bucket-owner-access/ 
+- https://docs.aws.amazon.com/AmazonS3/latest/dev/example-walkthroughs-managing-access-example1.html?shortFooter=true 
+- https://docs.aws.amazon.com/kms/latest/developerguide/services-parameter-store.html 
+- https://aws.amazon.com/blogs/security/how-to-encrypt-and-sign-dynamodb-data-in-your-application/ 
+- https://docs.aws.amazon.com/kms/latest/developerguide/services-rds.html 
+- https://aws.amazon.com/blogs/big-data/encrypt-and-decrypt-amazon-kinesis-records-using-aws-kms/
+- http://getyouralgorithm.blogspot.com/2018/09/aws-certified-security-specialty-exam.html
+
